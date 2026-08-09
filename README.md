@@ -60,7 +60,7 @@ If we materially change what data we collect or how we share it, we will update 
 
 ## 9. Contact
 
-**Email:** creeker620@gmail.com
+**Email:** greasegpt.app@gmail.com
 
 ---
 
